@@ -27,6 +27,7 @@ Insert the USB drive into the target PC.
 Run the Script
 
 In case the script.bat does not run automatically, manually double-click the file to execute it. After the initial run, it should work perfectly.
+If autorun doesn't work, you can also run the autorun_enable file to bypass all administrator access and enable autorun.
 
 Enjoy!!!!!!!!!
 
